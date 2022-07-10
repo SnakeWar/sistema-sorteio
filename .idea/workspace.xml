@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a58879d8-3a12-4492-a9f8-b437aee946f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/GameController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ConfigurationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/GameController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/GameRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Resources/ConfigurationResource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Resources/GameResource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Configuration.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Game.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2022_07_09_114436_create_games_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/games/form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/games/index.blade.php" afterDir="false" />
+    <list default="true" id="a58879d8-3a12-4492-a9f8-b437aee946f2" name="Changes" comment="Second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +200,7 @@
       <workItem from="1656273262610" duration="1543000" />
       <workItem from="1656292201020" duration="1923000" />
       <workItem from="1657332703145" duration="1088000" />
-      <workItem from="1657366067071" duration="40319000" />
+      <workItem from="1657366067071" duration="40736000" />
     </task>
     <servers />
   </component>
@@ -227,5 +217,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>

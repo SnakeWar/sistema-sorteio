@@ -8,6 +8,7 @@
 /site
 oabrn_2013.sql
 .env
+.idea/
 .env.backup
 .phpunit.result.cache
 Homestead.json
